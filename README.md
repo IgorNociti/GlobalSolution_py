@@ -3,7 +3,12 @@
 
 ❤️ Desenvolvedores:
 Henrique Maciel Rm559628
+
+
 Igor Nociti Rm560225
+
+
+Pedro Paulo Sabino RM559578
 
 📽️ Demonstração
 ▶️ Vídeo demonstrativo: [INSIRA LINK DO VÍDEO AQUI]
