@@ -1,4 +1,4 @@
-💧 Bueiro Inteligente – Simulador de Monitoramento Urbano
+💧 EcoDrain – Simulador de Monitoramento Urbano
 🧠 Prevenção de enchentes começa antes da água subir. Essa solução simula como tecnologia acessível pode salvar vidas em áreas urbanas.
 
 ❤️ Desenvolvedores:
@@ -7,7 +7,7 @@ Igor Nociti Rm560225
 
 📽️ Demonstração
 ▶️ Vídeo demonstrativo: [INSIRA LINK DO VÍDEO AQUI]
-📊 Mapa interativo: mapa_bueiros.html (gerado automaticamente após a execução)
+📊 Link do PDF: mapa_bueiros.html (gerado automaticamente após a execução)
 
 O Bueiro Inteligente é um sistema desenvolvido em Python para simular um sistema de alerta preventivo contra enchentes urbanas.
 Utilizando dados fictícios de sensores, o sistema detecta o nível de risco de cada bueiro com base na vazão, nível da água e tempo de chuva, apresentando essas informações em um mapa interativo da cidade.
