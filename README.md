@@ -12,7 +12,7 @@ Pedro Paulo Sabino RM559578
 
 📽️ Demonstração
 ▶️ Vídeo demonstrativo: [INSIRA LINK DO VÍDEO AQUI]
-📊 Link do PDF: mapa_bueiros.html (gerado automaticamente após a execução)
+📊 Link do PDF: https://drive.google.com/drive/folders/15snNjx976-dUbtV_VB_YJRfT2Gc7oQnE?usp=sharing
 
 O Bueiro Inteligente é um sistema desenvolvido em Python para simular um sistema de alerta preventivo contra enchentes urbanas.
 Utilizando dados fictícios de sensores, o sistema detecta o nível de risco de cada bueiro com base na vazão, nível da água e tempo de chuva, apresentando essas informações em um mapa interativo da cidade.
