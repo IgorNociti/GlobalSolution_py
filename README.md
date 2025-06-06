@@ -11,7 +11,10 @@ Igor Nociti Rm560225
 Pedro Paulo Sabino RM559578
 
 📽️ Demonstração
-▶️ Vídeo demonstrativo: [INSIRA LINK DO VÍDEO AQUI]
+▶️ Vídeo demonstrativo:https://youtu.be/wvQFHApgj3I
+
+
+
 📊 Link do PDF: https://drive.google.com/drive/folders/15snNjx976-dUbtV_VB_YJRfT2Gc7oQnE?usp=sharing
 
 O Bueiro Inteligente é um sistema desenvolvido em Python para simular um sistema de alerta preventivo contra enchentes urbanas.
